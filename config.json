@@ -33,6 +33,33 @@
         "research assistant"
       ],
       "enabled": true
+    },
+    {
+      "label": "science-tutoring",
+      "keywords": [
+        "science tutor",
+        "online science tutor",
+        "science teacher",
+        "online science teacher",
+        "elementary science",
+        "general science",
+        "biology tutor",
+        "stem tutor",
+        "stem teacher",
+        "math and science tutor",
+        "science homework",
+        "elementary tutor",
+        "elementary teacher",
+        "primary school tutor",
+        "grade school tutor",
+        "k-5 tutor",
+        "k-8 tutor",
+        "kids tutor",
+        "online tutor",
+        "online teacher",
+        "homework help"
+      ],
+      "enabled": true
     }
   ],
   "filters": {
@@ -64,9 +91,9 @@
     "jobsPerMessage": 8
   },
   "limits": {
-    "perSource": 50,
+    "perSource": 100,
     "fetchDescriptions": true,
-    "maxDetailFetches": 40,
+    "maxDetailFetches": 100,
     "requestDelayMs": 300
   },
   "_hints": {
